@@ -1,0 +1,9 @@
+The quick brown fox jumps over the lazy dog repeatedly. Huffman encoding efficiently compresses this text by assigning shorter codes to frequent characters. Notice how common letters like 'e', 't', and 'o' dominate. Repeated phrases such as 'Huffman encoding' (3x) and 'quick brown fox' (2x) stress-test redundancy.
+
+Special characters: !@#$%^&*()
+Numbers: 1234567890
+Case variation: Huffman hUffMan huFFman
+Extra repetitions: Compression, compression, COMPRESSION!
+
+Frequent words: test test test test test. Rare symbols: Ω≈ç√∫˜µ≤≥÷.
+This sample ensures diverse frequency distribution for evaluating compression efficiency. End of test.
